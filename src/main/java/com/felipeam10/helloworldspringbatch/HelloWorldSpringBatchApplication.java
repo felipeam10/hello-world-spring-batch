@@ -1,4 +1,4 @@
-package com.felipeam10.hello_world_spring_batch;
+package com.felipeam10.helloworldspringbatch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
